@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+        PixInsight repository for Blink2 process.
+        <br/>
+        Blink is a PixInsight process originally developped by Pleiades
+        Astrophoto S.L. and Nikolay Volkov.
+     </p>
+   </description>
+   <platform os="linux" arch="x86_64" version="1.8.9-1.1556:1.8.9-1.1556">
+      <package fileName="20230731-blink2.tar.gz" sha1="4c876ad6315fd86443ba1c2068aa35f192bb00ac" type="module" releaseDate="20230731">
+         <title>
+            Blink2 - Blink process with UI improvements
+         </title>
+         <description>
+            <p>
+                This update package installs a second Blink process featuring
+                some minor UI improvements: select all checked images, select
+                all images, select none and invert selection.
+            </p>
+            <p>
+                Products released in this repository are based on software from
+                the PixInsight project, developed by Pleiades Astrophoto and its
+                contributors (
+                <a href="https://pixinsight.com/">https://pixinsight.com/</a>
+                ). Such portions of the product are subject to the
+                <a href="https://pixinsight.com/license/PCL_PJSR_1.0.html">
+                PixInsight Class Library License
+                </a>
+                .
+            </p>
+            <p>
+               <a href="https://blog.arcturus.ch/pixinsight">https://blog.arcturus.ch/pixinsight</a>
+            </p>
+            <p>
+                Copyright (c) 2023 Volodia Laniel
+                <br/>
+                Copyright (c) 2011-2023 Nikolay Volkov
+                <br/>
+                Copyright (c) 2003-2023 Pleiades Astrophoto S.L.
+                <br/>
+            </p>
+         </description>
+      </package>
+   </platform>
+</xri>
