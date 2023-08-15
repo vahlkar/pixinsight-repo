@@ -9,7 +9,7 @@
      </p>
    </description>
    <platform os="linux" arch="x86_64" version="1.8.9-1.1556:1.8.9-1.1556">
-      <package fileName="20230731-blink2-linux.tar.gz" sha1="4c876ad6315fd86443ba1c2068aa35f192bb00ac" type="module" releaseDate="20230731">
+      <package fileName="20230731-blink2-linux_1-8-9-1.tar.gz" sha1="4c876ad6315fd86443ba1c2068aa35f192bb00ac" type="module" releaseDate="20230731">
          <title>
             Blink2 - Blink process with UI improvements
          </title>
@@ -45,7 +45,7 @@
       </package>
    </platform>
    <platform os="macosx" arch="x86_64" version="1.8.9-1.1556:1.8.9-1.1556">
-      <package fileName="20230804-blink2-macosx.tar.gz" sha1="7057fc19332a233256c5d0820b935f65f3b17166" type="module" releaseDate="20230804">
+      <package fileName="20230804-blink2-macosx_1-8-9-1.tar.gz" sha1="7057fc19332a233256c5d0820b935f65f3b17166" type="module" releaseDate="20230804">
          <title>
             Blink2 - Blink process with UI improvements
          </title>
