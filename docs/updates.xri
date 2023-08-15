@@ -80,4 +80,40 @@
          </description>
       </package>
    </platform>
+   <platform os="windows" arch="x86_64" version="1.8.9-1.1556:1.8.9-1.1556">
+      <package fileName="20230815-blink2-windows_1-8-9-1.tar.gz" sha1="d88716d3325c91a6803a34fe9ef54fc6811db67b" type="module" releaseDate="20230815">
+         <title>
+            Blink2 - Blink process with UI improvements
+         </title>
+         <description>
+            <p>
+                This update package installs a second Blink process featuring
+                some minor UI improvements: select all checked images, select
+                all images, select none and invert selection.
+            </p>
+            <p>
+                Products released in this repository are based on software from
+                the PixInsight project, developed by Pleiades Astrophoto and its
+                contributors (
+                <a href="https://pixinsight.com/">https://pixinsight.com/</a>
+                ). Such portions of the product are subject to the
+                <a href="https://pixinsight.com/license/PCL_PJSR_1.0.html">
+                PixInsight Class Library License
+                </a>
+                .
+            </p>
+            <p>
+               <a href="https://pixinsight.arcturus.ch/">https://pixinsight.arcturus.ch/</a>
+            </p>
+            <p>
+                Copyright (c) 2023 Volodia Laniel
+                <br/>
+                Copyright (c) 2011-2023 Nikolay Volkov
+                <br/>
+                Copyright (c) 2003-2023 Pleiades Astrophoto S.L.
+                <br/>
+            </p>
+         </description>
+      </package>
+   </platform>
 </xri>
