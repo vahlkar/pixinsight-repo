@@ -9,7 +9,7 @@
      </p>
    </description>
    <platform os="linux" arch="x86_64" version="1.8.9-2:1.8.9-2">
-      <package fileName="20230817-blink2-linux_1-8-9-2.tar.gz" sha1="a18274a57dbffe6565f1ddf6bb3edd95ccc811a9" type="module" releaseDate="20230817">
+      <package fileName="20230817-blink2-linux_1-8-9-2.tar.gz" sha1="a2af677fcaf0c5916dc07bce08775184a683e1a9" type="module" releaseDate="20230817">
          <title>
             Blink2 - Blink process with UI improvements
          </title>
