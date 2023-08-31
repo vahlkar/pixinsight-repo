@@ -15,7 +15,7 @@
       </p>
    </description>
    <platform os="linux" arch="x86_64" version="1.8.9-2:1.8.9-2.1573">
-      <package fileName="assets/pixinsight/modules/20230817-blink2-linux_1-8-9-2.tar.gz" sha1="a2af677fcaf0c5916dc07bce08775184a683e1a9" type="module" releaseDate="20230817">
+      <package fileName="../../assets/pixinsight/modules/20230817-blink2-linux_1-8-9-2.tar.gz" sha1="a2af677fcaf0c5916dc07bce08775184a683e1a9" type="module" releaseDate="20230817">
          <title>
             Blink2 - Blink process with UI improvements
          </title>
@@ -51,7 +51,7 @@
       </package>
    </platform>
    <platform os="linux" arch="x86_64" version="1.8.9-1.1556:1.8.9-1.1556">
-      <package fileName="assets/pixinsight/modules/20230731-blink2-linux_1-8-9-1.tar.gz" sha1="4c876ad6315fd86443ba1c2068aa35f192bb00ac" type="module" releaseDate="20230731">
+      <package fileName="../../assets/pixinsight/modules/20230731-blink2-linux_1-8-9-1.tar.gz" sha1="4c876ad6315fd86443ba1c2068aa35f192bb00ac" type="module" releaseDate="20230731">
          <title>
             Blink2 - Blink process with UI improvements
          </title>
@@ -87,7 +87,7 @@
       </package>
    </platform>
    <platform os="macosx" arch="x86_64" version="1.8.9-2:1.8.9-2.1573">
-      <package fileName="assets/pixinsight/modules/20230817-blink2-macosx_1-8-9-2.tar.gz" sha1="a9e17c194fbe4105ceb95d1e1a3c5cb5926caf80" type="module" releaseDate="20230817">
+      <package fileName="../../assets/pixinsight/modules/20230817-blink2-macosx_1-8-9-2.tar.gz" sha1="a9e17c194fbe4105ceb95d1e1a3c5cb5926caf80" type="module" releaseDate="20230817">
          <title>
             Blink2 - Blink process with UI improvements
          </title>
@@ -123,7 +123,7 @@
       </package>
    </platform>
    <platform os="macosx" arch="x86_64" version="1.8.9-1.1556:1.8.9-1.1556">
-      <package fileName="assets/pixinsight/modules/20230804-blink2-macosx_1-8-9-1.tar.gz" sha1="7057fc19332a233256c5d0820b935f65f3b17166" type="module" releaseDate="20230804">
+      <package fileName="../../assets/pixinsight/modules/20230804-blink2-macosx_1-8-9-1.tar.gz" sha1="7057fc19332a233256c5d0820b935f65f3b17166" type="module" releaseDate="20230804">
          <title>
             Blink2 - Blink process with UI improvements
          </title>
@@ -159,7 +159,7 @@
       </package>
    </platform>
    <platform os="windows" arch="x86_64" version="1.8.9-2:1.8.9-2.1573">
-      <package fileName="assets/pixinsight/modules/20230818-blink2-windows_1-8-9-2.tar.gz" sha1="c4178dd5caa345a736f87c42b6d59a5cb8365f6c" type="module" releaseDate="20230818">
+      <package fileName="../../assets/pixinsight/modules/20230818-blink2-windows_1-8-9-2.tar.gz" sha1="c4178dd5caa345a736f87c42b6d59a5cb8365f6c" type="module" releaseDate="20230818">
          <title>
             Blink2 - Blink process with UI improvements
          </title>
@@ -195,7 +195,7 @@
       </package>
    </platform>
    <platform os="windows" arch="x86_64" version="1.8.9-1.1556:1.8.9-1.1556">
-      <package fileName="assets/pixinsight/modules/20230815-blink2-windows_1-8-9-1.tar.gz" sha1="d88716d3325c91a6803a34fe9ef54fc6811db67b" type="module" releaseDate="20230815">
+      <package fileName="../../assets/pixinsight/modules/20230815-blink2-windows_1-8-9-1.tar.gz" sha1="d88716d3325c91a6803a34fe9ef54fc6811db67b" type="module" releaseDate="20230815">
          <title>
             Blink2 - Blink process with UI improvements
          </title>
