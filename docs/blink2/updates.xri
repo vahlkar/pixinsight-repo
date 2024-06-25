@@ -8,7 +8,7 @@
         Astrophoto S.L. and Nikolay Volkov.
     </p>
    </description>
-   <platform os="linux" arch="x86_64" version="1.8.9-2.1579:1.8.9-2">
+   <platform os="linux" arch="x86_64" version="1.8.9-2.1579:1.8.9-3">
       <package fileName="../assets/pixinsight/modules/20230817-blink2-linux_1-8-9-2.tar.gz" sha1="a2af677fcaf0c5916dc07bce08775184a683e1a9" type="module" releaseDate="20230817">
          <title>
             Blink2 - Blink process with UI improvements
@@ -44,7 +44,7 @@
          </description>
       </package>
    </platform>
-   <platform os="macosx" arch="x86_64" version="1.8.9-2.1579:1.8.9-2">
+   <platform os="macosx" arch="x86_64" version="1.8.9-2.1579:1.8.9-3">
       <package fileName="../assets/pixinsight/modules/20230817-blink2-macosx_1-8-9-2.tar.gz" sha1="a9e17c194fbe4105ceb95d1e1a3c5cb5926caf80" type="module" releaseDate="20230817">
          <title>
             Blink2 - Blink process with UI improvements
@@ -80,7 +80,7 @@
          </description>
       </package>
    </platform>
-   <platform os="windows" arch="x86_64" version="1.8.9-2.1579:1.8.9-2">
+   <platform os="windows" arch="x86_64" version="1.8.9-2.1579:1.8.9-3">
       <package fileName="../assets/pixinsight/modules/20230818-blink2-windows_1-8-9-2.tar.gz" sha1="c4178dd5caa345a736f87c42b6d59a5cb8365f6c" type="module" releaseDate="20230818">
          <title>
             Blink2 - Blink process with UI improvements
@@ -117,4 +117,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="Vahlkar" timestamp="2023-08-31T15:58:03.740Z" encoding="Base64">up26cAbmsW+sJkTJVWkWJibz07K3JSmjXIVYwKCVrClejPx04YGpCHGx7rVlaqT1sGOyTMabXn71u0HJTHDaAA==</Signature>
+<Signature developerId="Vahlkar" timestamp="2024-06-25T16:57:04.580Z" encoding="Base64">Ja+ZQrIXCIB68SUDZnJ5jjNdAClLgkaHFGJJPkh6+YlBS6X1RqB2B3063yYgSYjnFM7oT6qAjMMIs9T1mCDkBA==</Signature>
