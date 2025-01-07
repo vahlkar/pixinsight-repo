@@ -44,6 +44,42 @@
          </description>
       </package>
    </platform>
+   <platform os="macosx" arch="x86_64" version="1.9.0:1.9.99">
+      <package fileName="../assets/pixinsight/modules/20250113-blink2-macosx_1-9-Lockhart.tar.gz" sha1="7e260d78ea0e3bc2412197bd18b05ecb3c5930c1" type="module" releaseDate="20250113">
+         <title>
+            Blink2 - Blink process with UI improvements
+         </title>
+         <description>
+            <p>
+                This update package installs a second Blink process featuring
+                some minor UI improvements: select all checked images, select
+                all images, select none and invert selection.
+            </p>
+            <p>
+                Products released in this repository are based on software from
+                the PixInsight project, developed by Pleiades Astrophoto and its
+                contributors (
+                <a href="https://pixinsight.com/">https://pixinsight.com/</a>
+                ). Such portions of the product are subject to the
+                <a href="https://pixinsight.com/license/PCL_PJSR_1.0.html">
+                PixInsight Class Library License
+                </a>
+                .
+            </p>
+            <p>
+               <a href="https://pixinsight.arcturus.ch/">https://pixinsight.arcturus.ch/</a>
+            </p>
+            <p>
+                Copyright (c) 2023 Volodia Laniel
+                <br/>
+                Copyright (c) 2011-2023 Nikolay Volkov
+                <br/>
+                Copyright (c) 2003-2023 Pleiades Astrophoto S.L.
+                <br/>
+            </p>
+         </description>
+      </package>
+   </platform>
    <platform os="linux" arch="x86_64" version="1.8.9-2.1579:1.8.9-3">
       <package fileName="../assets/pixinsight/modules/20230817-blink2-linux_1-8-9-2.tar.gz" sha1="a2af677fcaf0c5916dc07bce08775184a683e1a9" type="module" releaseDate="20230817">
          <title>
@@ -153,4 +189,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="Vahlkar" timestamp="2024-12-26T18:02:36.069Z" encoding="Base64">kENGrCRUNqfljgB7JEm73zCFuaJMsKLF5rfvVJUiXyqU4VzjOCQZUSuCZNQ6TdMvrIVwg86dXO0+b1FzNbAQDQ==</Signature>
+<Signature developerId="Vahlkar" timestamp="2025-01-13T18:14:48.262Z" encoding="Base64">jSuycLp267+YFNvULszVp4p9QGZPGgwUr3izlYi22EhDrgt8kyodMGs34PjIWJFCKW/GaqkUa9L6er+qI3RQCQ==</Signature>
